@@ -15,7 +15,7 @@ import operator
 ```
 
 Initialize RAKE with a stopword list and keyword parameters.
-`rake_object = rake.Rake("SmartStoplist.txt", 5, 3, 4)`
+```rake_object = rake.Rake("SmartStoplist.txt", 5, 3, 4)```
 
 This creates a RAKE object that extracts keywords where:
 - Each word has at least 5 characters
@@ -31,4 +31,4 @@ print "Keywords:", keywords
 ```
 
 You should get an output like this:
-`Keywords: Keywords: [('household food security', 7.711414565826329), ('indigenous groups living', 7.4), ('national forest programmes', 7.249539170506913), ('wood forest products', 6.844777265745007)...`
+```Keywords: Keywords: [('household food security', 7.711414565826329), ('indigenous groups living', 7.4), ('national forest programmes', 7.249539170506913), ('wood forest products', 6.844777265745007)...```
