@@ -32,3 +32,5 @@ print "Keywords:", keywords
 
 You should get an output like this:
 ```Keywords: Keywords: [('household food security', 7.711414565826329), ('indigenous groups living', 7.4), ('national forest programmes', 7.249539170506913), ('wood forest products', 6.844777265745007)...```
+
+This fork uses MySQLdb to read messages from a MySQL database, do some trash pickup/cleaning of HTML tags, and writes the cleaned messages to a file for processing.

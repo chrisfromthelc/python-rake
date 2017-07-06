@@ -18,18 +18,18 @@ import cStringIO
 
 # Pull in chats from MySQL
 
-db = MySQLdb.connect(host="127.0.0.1", port=3306, user="USERNAME", passwd="PASSWORD", db="happychat_messages")
+db = MySQLdb.connect(host="127.0.0.1", port=3306, user="USERNAME", passwd="PASSWORD", db="DBNAME")
 
 cursor = db.cursor()
 
-cleanup = "DELETE FROM happychat_messages WHERE message LIKE '%Site I need help with%' OR message LIKE '%event_type%' OR message LIKE '%Information to assist troubleshooting%'"
+cleanup = "DELETE FROM tablename WHERE columnname LIKE '%Text to clean up%'"
 
 cursor.execute(cleanup)
 db.commit()
 
 print('Database cleaned of status messages')
 
-cursor.execute("SELECT DISTINCT message->\"$.text\" FROM happychat_messages")
+cursor.execute("SELECT DISTINCT columnname->\"$.text\" FROM tablename")
 
 # rows = cursor.fetchall()
 
