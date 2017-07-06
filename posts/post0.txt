@@ -1,0 +1,60 @@
+Recently, we talked about the advantages of using Google Search Console to increase your site’s visibility. Today we turn to Microsoft’s Bing.
+While Google is the king of search engines, Microsoft’s Bing is still a force to be reckoned with. Together with Yahoo, Bing occupies the remaining third of US search queries, and its third-party relationships allow it to serve results on multiple platforms beyond the Bing.com search engine. If you aren’t in Bing’s search database, you’re missing out on multiple avenues of opportunity.
+
+Add A Sitemap
+
+Going forward, you’ll need a Microsoft account; you can sign up for one here.
+To get started, you’ll want to add your site to Bing. You can accomplish that by following the step-by-step instructions on our support site.
+
+Now it’s time to add your sitemap to Bing. If you already added it using the instructions linked to above, skip this first step; you’re already ahead of the class!
+
+Click on Configure My Site → Sitemaps.
+
+In the Submit a sitemap box, enter your site’s sitemap URL. If you use a free WordPress.com domain, it will look like this: example.wordpress.com/sitemap.xml; if you have a custom domain, the URL will have the following format: example.com/sitemap.xml.
+
+Click Submit. The sitemap listing status will be Pending for a while, but should switch to Success after a few hours, and display stats about your sitemap.
+Geotargeting
+
+If your site serves a particular area, narrowing your audience can help you appear more often in relevant search results.
+Geotargeting limits search results to a certain geographical area. This is especially helpful for local businesses: there’s little benefit for a bakery in Chicago to show up in search results in Los Angeles. Even if your site isn’t a business, but is a resource focused on a specific location — a charity organization, a local information blog — geotargeting can be useful for your site as well.
+
+Click on Configure My Site → Geo-targeting.
+
+Select Subdomain in the first drop-down box. This will deactivate the next box that will show your website’s URL. Since we’re setting the location for the entire site, this is okay.
+
+In the Country/Region drop-down menu, select your desired location.
+
+Click Submit. Your site will now come up in searches within the targeted area, as well as in extremely focused searches elsewhere.
+Connected Pages
+
+Social media sites can be great content destinations by themselves (as well as indicators of rank-worthy sites).
+If you’ve built a site, there’s a good chance that you also maintain a social media presence. If you’re spending time on Twitter, Facebook, Pinterest, or a similar platform, Bing wants to give you credit for creating that content, and will push your site up in the rankings when you link your social accounts to your main website.
+
+The Connected Pages tool is Bing’s way of finding out about your site’s social footprint, but first you’ll need to ensure that your various profiles include your website’s address. You’ll want to explore how to edit your various social profiles, since each platform works a bit differently when it comes to adding information about your website.
+
+Once you’re sure that you’ve entered your site’s address correctly in your social profiles, follow the instructions below to connect them to your site in Bing.
+
+Click on Configure My Site → Connected Pages.
+
+Select the connected page type from the drop-down menu.
+
+Enter the username or identifying URL in the text box. This will vary by service; double-check each social profile to see how it displays your name.
+
+Click Verify.
+It might take a few days for stats to populate your account; they will start showing there once your profile makes it to Bing’s search results. If you still see a Not Verified message after a day or two, check the URL of your social profile; it may be different than the one you entered, so you’ll need to correct any discrepancy.
+
+Dig Deep Into Data
+
+Bing’s Webmaster Tools provide a wealth of information once your site has been indexed and sending traffic.
+If you’ve completed the three suggestions above, you’re well on your way to getting great search results in Bing and Yahoo. Page Traffic (under Reports & Data) is a great resource to see how you’re doing when your site shows for a search term; it reveals search positions, click-through rates, search keywords, and more.
+
+
+Search Keywords (under Reports & Data) shows a similar set of data, but focuses on the keywords that are driving Bing traffic to your site. This can help you find new opportunities for creating content, and tell you if your site is appearing for search queries that aren’t relevant.
+
+
+High quality, related links to your site are a ranking signal as old as search engines themselves. In the Inbound Links tool (also under Reports & Data), Bing will show you the pages being linked to, the number of inbound links, and the sites linking to those pages.
+
+
+Learn More
+
+While Bing may not be at the top of the search heap, the Webmaster Tools give site owners precious data. The Bing Webmaster Tools Help & How-To Center offers information on using Webmaster Tools, as well as on topics like removing links from Bing, malware and spam, content guidelines, and more.

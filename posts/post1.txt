@@ -1,0 +1,73 @@
+In the world of website creation, on-page SEO is one of the most important factors (if not the most important) in helping potential visitors find your site.
+On-page SEO is a term that describes the elements — both content- and code-based — that produce a page that ranks well for searches around a certain topic. Building a perfectly optimized page is challenging; overdoing it might result in penalized sites and poor rankings.
+
+While there are countless guides out there, each with their own opinions on what an optimized page entails, there are a few important factors that practically every SEO resource agrees on — factors that come organically with good content, which search engines love. Let’s go through six of the most crucial ones.
+
+Your Audience Comes First
+
+Great content satisfies a need that a person visiting your site has.
+The expression “Content is king” has been tossed around the search engine marketing sphere for a number of years. It’s used as a way to impress upon site owners that, no matter what, what they publish is the most important part of their site. While the intent behind that saying is generally correct, I prefer a different approach: the Visitor, above all else.
+
+What constitutes good content varies by person and by context; an aspiring home cook may find your recipe blog to be a lifesaver, or someone who is looking for advice on retirement planning may be grateful for your knowledge on taxes and 401(k) options. Even the silliest subjects (like Star Trek “lolcat” images) can find an audience!
+
+Beyond fulfilling a visitor’s need, your posts should present a consistent, on-topic message. If you’re writing a review of a cat toy, readers (and search engines) will get confused when you suddenly shift to talking about litter boxes. It can sometimes make sense to address multiple topics per post, but the piece as a whole should embody a single, unified subject or idea.
+
+You might have read that bolding text or italicizing it helps with SEO. There is no empirical data to support that claim; on the contrary, search engines might penalize sites that overuse either. Feel free to use bold or italics where it makes sense to emphasize a word or a phrase, but don’t use it on everything!
+One of the small things you can do to help reinforce a page or a post’s topic is to add internal links from other areas on your site. While your site’s navigation menu probably links to many of your pages, linking to them from other posts and pages helps to provide context for search engines.
+
+For example, a sentence on a post about litter boxes might read “Fluffy ignored the new litter box for a few days, but the new cat toys were an immediate hit.” The words “cat toys” would link to a different post about cat toys elsewhere on your site.
+
+Titles
+
+Your post and page titles are one of the first interactions visitors have with the stuff you publish. They should acknowledge how the content will fulfill that person’s need. “The 5 Best Books About Puppy Training” or “How To Cook Brown Rice Pilaf” are both good, clear titles. You immediately know what you’ll get once you decide to click.
+
+Example of how titles look in search engines.
+
+When crafting a title, it helps to think about how you would expect someone to find your article in a search engine. If you’re a new parent looking for information on kid-safe cleaning products, are you more likely to click on a search result titled “What Cleaners are Safe for Babies?” or “Changing Paradigms” (both of which are real page titles taken from the same search results, featuring similar material)?
+
+A clear, concise title prevents a searcher from “bouncing” (clicking on a result, then hitting the Back button to go back to the search results immediately). That’s important: high bounce rates can result in slipping rankings, since they indicate your content doesn’t measure up to searchers’ expectations based on the title.
+
+If you want to be sure what your title will look like in the search engine, you can use this neat tool by Portent to check it out.
+Another thing to keep in mind: search engines will usually display a limited portion of your title, about 512 pixels in length. On average, this ends up being about 58 characters, but things like capital letters and special symbols can increase or decrease this number.
+
+On WordPress.com, we’ll automatically append your site title to the end of the page/post title, but it’s okay if you allow the latter to take up the entire 58 character count. While the search engine might cut off the site title in the results pages, it’s still factored into the ranking. The title of the individual page or post is the important portion that you want your potential readers to see.
+
+This screenshot shows how search engines cut off titles based on length.
+
+URLs
+
+A good URL — the specific web address of your posts and pages — is like page titles, in that it should stay very clear and concise. A user should be able to look at the URL for a page and know exactly what it’s about.
+On WordPress.com, we craft the URL automatically based on your page or post title. Normally you don’t need to manually adjust the URL, but in case it includes too many “stop words” (and, or, but, of, the, a, etc.), it can make sense to edit the post slug.
+
+Stop words are unnecessary — they dilute the topical word percentage of a URL. A post with the URL “how-to-build-a-fort-for-your-kids” is somewhat long, and the important keywords are a smaller percentage of the URL. Changing the URL to “how-to-build-fort-for-kids” is shorter, and is almost entirely made of the important keywords.
+
+Heading Tags
+
+Heading tags mostly fall into the same category as bold or italics usage; they provide no real rankings boost on their own, but you should use them to provide a great reading experience for your site’s visitors.
+Heading tags denote major sections of your content; in a post comparing three methods of refinishing furniture, you might have a section titled “Painting by Hand”, and give it the Heading 2  (or 3; the exact number isn’t particularly important) designation. Doing this can help searchers quickly skim the article, and make them more likely to stay: they can see the post is clearly related to their search.
+
+Header Tags In WordPress.com Editor
+
+Images
+
+Whether it’s a chart, photo, or something else, search engines (and people) love to see images in your pages and posts.
+When using images in your content, be sure to fill out a descriptive alt text for the image. The alt text should describe what the image is (“A bouquet of red roses in a green vase”). It not only helps the search engine understand what the image shows, but it also can assist people that use screen-reader software to better understand your site.
+
+Showing image attributes.
+
+Meta Description
+
+Meta descriptions are a general overview of the contents of your site. Search engines sometimes use this information to determine the site’s relevance for specific searches. Like page titles, they have limited space on search result pages — about 156 characters. You can use the same tool from Portent to calculate and preview your description.
+Meta descriptions can be a great way to entice searchers to click, even if the description isn’t directly utilized in search ranking calculations. You want to supply the reader with enough information so they’ll be encouraged to click on your site. Note how the meta description below explains exactly what readers can expect once they click on this search result:
+
+Another example of how titles display in search engines.
+
+On WordPress.com, we populate your meta description in two ways. First, you can specify your meta description by using the excerpt feature. This works on all posts, but not all pages: only certain themes offer page excerpts (as of this writing these are Sela, Sequential, Edin, and Motif Now all themes have page excerpts!).
+
+If you don’t specify an excerpt, our software will automatically take the first portion of your content to use as the meta description. While this isn’t ideal, it’s even less ideal to leave the description blank. If you use a theme that does not provide page excerpts, just keep this in mind when you draft and publish that page.
+
+Finally…
+
+While a perfectly optimized page might be the dream, in reality there will be times when it’ll become an impossible standard to adhere to.
+
+Knowing what factors are important and keeping them in mind as you build your site and publish new posts will make the entire experience better for visitors and search engines, so making an exception on occasion isn’t the end of the world (or of your search rankings).

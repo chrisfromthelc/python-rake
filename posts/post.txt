@@ -1,0 +1,66 @@
+Many search engines and social networks — from Bing to Pinterest — provide their own webmaster tools. These tools serve as a feedback interface between the site owner — that’s you! — and the search engine.
+
+You can use these tools to see stats about your site, change settings that control how your site shows in a search, and provide search engines with more information about your site.
+When you build a site on WordPress.com, we take care of the vast majority of your SEO (Search Engine Optimization) needs. For many bloggers, that’s more than adequate; you’ll already be ahead of the pack when it comes to having a fully optimized site.
+
+However, if you’re trying to drive new readers to your blog in a very competitive niche, or would like to get new customers to your business website, learning to use Google Search Console can help you position your site to be even more successful in search rankings.
+
+Adding your site
+
+It can take Google’s crawler up to a few hours to detect your verification code. If you get an error despite entering the code correctly, give Google some extra time to re-crawl the site.
+If you haven’t already, check out our easy step-by-step tutorial on adding a site to Search Console. You’ll need to do this first before using Google’s webmaster tools.
+
+Knowing where to go from there is a little more challenging. The next steps can vary depending on your goals and the type of site you’re building. Today we’ll focus on the three most important things you can do using Google Search Console.
+
+My site is verified! What’s next?
+International Targeting
+
+Most webmasters target a specific audience. For example, a business owner in London likely doesn’t need to reach visitors in Tokyo, and would want to focus his or her efforts on reaching a UK audience. To let Google know about the users who are most relevant to your site, you’ll need to adjust the International Targeting setting.
+
+Click on Search Traffic → International Target.
+
+Click on the Country tab.
+
+Select the checkbox next to Target users in: and select the country you wish to target with your site.
+
+Click Save.
+Choosing a targeted country serves two purposes. First, it demonstrates to Google that your site is most pertinent to your specific location. Second, it reduces the chances your site will come up in generic searches outside of your target country. It won’t totally exclude you from other locations, but it will cut down traffic that isn’t valuable to your goals.
+
+Sitemaps
+
+Search engines have gotten very good at learning how to crawl nearly any type of site. Still, sitemaps are a great way to direct those search engines to content they might miss — especially if your site is large.
+
+Google Search Console provides an easy method to submit your sitemap for processing:
+
+Click on Crawl → Sitemaps.
+
+In the top right area of the window, click Add/Test Sitemap.
+
+You’ll see the first portion of your site (yourgroovysite.wordpress.com or yourgroovysite.com) with a text input box. You’ll enter “sitemap.xml” into this box, and click Submit Sitemap. There’s no need to test the sitemap, since WordPress.com builds it for you automatically.
+
+Look for a yellow notification saying “Sitemap submitted.” Click the Refresh the page link, and you should see the sitemap in the list.
+
+It can take Google Search Console a few days to crawl the site via the sitemap, so you’ll likely see a Pending status until that happens. You only need to submit the sitemap once; re-submitting won’t make things go faster!
+
+Fetch As Google
+
+Fetch As Google is another must-use tool when adding your site to Search Console. It lets you see exactly how Google is crawling and rendering the pages on your site. If you’re using any custom CSS (which is part of our paid WordPress.com Premium and WordPress.com Business plans), it can reveal issues with how Googlebot sees your site — issues that might affect your search ranking.
+
+Click on Crawl → Fetch as Google.
+
+You’ll see a blank text box. Typically, you’ll want to leave this blank so it targets the entire site. Click on Fetch and Render.
+
+After a few seconds, click the Submit to index button that appears.
+
+In the dialog box that pops up, select Crawl this URL and its direct links, and then click Go.
+
+Since most WordPress.com websites are mobile-responsive, it’s wise to inform Google about this. You can simply repeat the steps, selecting Mobile: Smartphone in Step 2.
+
+If you’re using custom CSS, you’ll want to check out Fetch as Google‘s Rendering screen. Clicking on the >> next to each entry will show the fetch results, and more importantly, the visual rendering results.
+
+
+
+
+Learn More
+
+If you still haven’t had enough of Search Console, Google’s Search Console Help Center is an excellent resource to dive deeper and learn more. The Webmaster Academy provides even more great information on what works in Google Search. Skip ahead to Modules 2 and 3, since you’ve already got a great WordPress.com site!

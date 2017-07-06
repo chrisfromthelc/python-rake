@@ -1,0 +1,100 @@
+Ranking well for the right search terms can mean the difference between hundreds of visits per month, and relative search-engine obscurity.
+If you’re a dedicated blogger, you’ve probably spent hours thinking about future post topics. Even on a casual personal blog, it’s easy to lose yourself in figuring out what to write about next (hint: check out our Daily Prompts!).
+
+Even after you’ve whittled down your ideas into a solid list of potential posts, you still need to think about how readers who share your interests will find you in search engines. While WordPress.com has excellent SEO built in, your content is still the top factor in how readers find you online. Today, let’s talk about a simple, no-frills approach to keyword research that can help boost your blog posts’ visibility.
+
+Keyword Research? What’s that?
+
+People looking for content use search engines in many different ways, and use a variety of search terms. Keyword research is the method of taking your main topic keywords (called “head terms”), and creating a list of potential search phrases (called “long-tail keywords”) that you can incorporate into your posts.
+
+The payoff of keyword research is that your writing will contain terms and phrases that real people search for in connection with the things you’re writing about. You’ll potentially rank (or rank better) for those terms in search engines, which could translate to more visitors for your site.
+
+Make A List
+
+You’ve already got a great topic in mind for your next post, so… now what?
+
+First, you’ll want to make a shortlist of the most generic terms possible around your topic. For example, if you’re writing a post for your award-winning chocolate-chip cookies, your list may include terms like cookie recipe, chocolate chip cookie, or chocolate chip cookie recipe.
+
+It’s perfectly fine if you only have one or two items in this list of generic phrases (these are the head terms mentioned earlier). We’ll soon expand this list.
+
+Now that you’ve got your shortlist of head terms, it’s time to get organized. Any sort of spreadsheet program like Microsoft Excel (free trial), Apple Numbers (free for most Macs) or Google Sheets (free) is great; you can even use a simple text or notepad program already on your computer.
+
+Open up your program of choice, and add your generic head terms. If you’re using a spreadsheet program, put one head term in each column.
+
+Find Long-Tail Keywords
+
+Now that we’ve got a few head terms to work with, the next step is to expand this list into a larger list of potential terms that reflect real-world searches. We do this because most people will attempt to be somewhat detailed when searching for specific information.
+
+An example of long-tail keywords at work would be what you experience looking for shoes online. Searching the generic head term “shoes” will deliver countless sites where you could buy shoes, but the search results aren’t detailed enough to be useful. Searching for a long-tail keyword like “size 8 women’s leather hiking boots” will yield a set of results that are more tailored to your needs.
+If you were to search for “keyword research tools,” you’d find countless results, and hundreds (maybe thousands) of tools that range in price from free to exorbitant. We’ll stick with the free options, but if you’re a serious content-creation machine, you may find value in some of the paid tools.
+
+Keyword Research Using Google
+
+My favorite keyword research tool is Google itself, and you can learn about people’s search habits in relation to your topic simply by running a few searches.
+
+Let’s kick off our long-tail keyword research by looking up chocolate chip cookie recipe.
+
+Of course, you’ll see the expected list of recipes; let’s scroll to the bottom to find the real gold: Google’s related-searches section.
+
+“Searches related to…” is an often-overlooked part of the Google search results page; but it’s wildly useful for searchers and content creators alike. This section is generated based on actual user searches, as well as Google’s algorithms.
+You’ll already see some great long-tail keywords in this first list, but for even more ideas, click on one of those related searches and scroll to the bottom. You’ll get another related-searches box with even more targeted suggestions! Clicking on homemade chocolate chip cookie recipe yields these suggestions:
+
+Run similar searches for the head terms on your list, and when you find keywords that resonate with your blog post, copy and paste them under the related column on your spreadsheet. A good start would be 10-20 long-tail keyword terms under each head term. The exact number might vary depending on your particular topic.
+
+Keyword Research Using KeywordTool.io
+
+Another one of my favorite keyword research tools is KeywordTool.io (free, with paid levels). The real power in Keyword Tool is that you can search not just Google, but also YouTube, Bing, and Amazon. The data that you see is pulled from auto-complete/suggested search results.
+
+We’ll use Keyword Tool to generate keyword ideas from YouTube, Google, and Amazon. The YouTube search can often yield great keyword ideas if you’re writing a “how-to” post, and Amazon keyword ideas generally revolve around products related to a keyword.
+
+YouTube Search
+
+Once you’ve opened Keyword Tool, click on the YouTube tab. Type in one of your head terms (we’ll use chocolate chip cookie), and click the search button.
+
+Select your country and language here if needed. Keyword Tool can give you non-English results if you need them!
+Typically, you’ll see quite a few keyword suggestions presented. You’re likely to see a mix of repetitive terms and new ideas. Check the box of those you’d like to keep, and click the Copy button in the lower right-hand corner of your browser window. This will allow you to paste them into your keyword list.
+
+Once you’ve pasted those terms into your list, return to Keyword Tool, click on the Google tab, and then on the Questions tab.
+
+Question Search
+
+Along with a normal search, Keyword Tool provides a search that returns questions related to your keyword, allowing you to explore real questions that people ask in internet searches.
+
+You’ll see several results in the form of questions. If you look at a very generic term, you’ll see more questions than if you use a more specific term. If you can incorporate those questions into your blog post (with a solid answer), you’ll already be ahead of the pack attracting visitors to your site!
+
+You can also select and copy these questions to add to your spreadsheet. While you might not want to use them word for word, consider incorporating them in your blog posts in some manner.
+
+Amazon Search
+
+If you’re writing a product-centered post (or even if a product is tangentially related), the Amazon search can surface some interesting supporting keyword ideas for your post. Beyond direct keyword matches, search engines will also look for terms that they expect to be related to your main keyword/topic.
+
+If you’re an Amazon affiliate (or use a similar program), this is a great way to find products that you can link to with your affiliate code when using your keywords!
+With the Amazon search, you’ll typically want to break your head term down to a single word without any sort of adjectives or modifiers. So instead of chocolate chip cookie, we’ll use cookie. Searching for that keyword returns a number of suggestions, but we can immediately see some useful keywords.
+
+Filtering Your Keywords
+
+By now, you should have a sizable set of keywords to draw from. If you’re using a spreadsheet program, your table will look something like this.
+
+You’ll almost certainly have a few duplicates; you can go ahead and remove those immediately. There will also likely be a few items that, after a second glance, don’t really make sense for your post; go ahead and delete those keywords as well. You’ll still have a lot of potential keywords. There’s absolutely no need to use all (or even most) of them. This is simply a list of terms you could pull from to supplement your blog post’s topic.
+
+Utilizing Your Long-Tail Keywords
+
+The key to successful keyword usage is to keep your sentences natural, and to avoid keyword stuffing.
+
+Ever read a blog post that sounded repetitive because the same few words were used over and over again? That’s keyword stuffing.
+By peppering your writing with terms that real people search for, you’re helping to guide search engines to your posts when potential readers look up those terms online.
+
+Instead of:
+
+I’ve adapted my baking methods to come up with a chocolate chip cookie recipe that the kids can make.
+You can use:
+
+I’ve adapted my baking methods to make a chocolate chip cookie recipe easy for kids.
+In addition to the potential for higher search rankings, these long-tail keywords might be highlighted on the search result page when your post is shown as a result.
+
+This is helpful especially when you’re using longer-tail keywords that more directly target a specific search; having the exact phrase someone searches for is an advantage and draws a bit more attention to your site’s result.
+
+Finally…
+
+Want a bigger boost from your keyword research? Use up to 15 of your most generic terms as tags to show up in the WordPress.com Reader topic listings.
+As a keyword research beginner, you’ll spend a fair amount of time figuring out the process. As you get into the habit, you’ll eventually put together an excellent set of keywords within minutes. Even though it does add an extra layer to your blogging process, finding and incorporating those keywords into your posts in a natural-sounding manner will attract more traffic and visitors from search engines.
